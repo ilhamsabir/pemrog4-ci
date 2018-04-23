@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Home</title>
-</head>
-<body>
-	<h2>Home</h2>
-</body>
-</html>
+<div class="container">
+	<div class="row">
+		<div class="col-sm-6 col-sm-offset-3">
+			Hello World
+		</div>
+	</div>
+</div>

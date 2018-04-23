@@ -1,0 +1,19 @@
+Materi UAS:
+- 	Proses crud CodeIgniter
+- 	Pengertian jQuery,
+  	peran jQuery / javascript menampilkan or render data ke html
+	Hub Php dengan jQuery
+		-> jQuery digunakan di view CI-PHP
+		-> Instalasi jQuery di CI
+		-> Fasilitas nya apa
+- 	Pengertian Ajax
+	Window form
+	Validasi
+	Menyamain tampilan dengan aplikasi dekstop
+- 	Cara render data Ajax
+- 	Database
+	-> view
+	-> input
+	-> update
+	-> delete
+-	Export/import
